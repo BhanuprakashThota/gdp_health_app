@@ -13,3 +13,4 @@
 2. We then changed colour combination landing and remaining pages of the application.
 3. We have removed a column of Wellness center of NWMSU.
 4. Updated text field from Liters to ounces, KM to miles and also Hydration to water.
+5. 
